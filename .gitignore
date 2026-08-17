@@ -1,0 +1,9 @@
+﻿# Never commit: real credentials, live portfolio data, local state
+.rate-setter/
+.envtest
+.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
